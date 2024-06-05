@@ -28,7 +28,7 @@
   <h3><b>Let's get in touch! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/stefanos-stamoulis/" target="_blank">
+<a href="https://www.linkedin.com/in/valentin-hemeret-327819250/" target="_blank">
   <img align="center" alt="Valentin Hemeret | Linkedin" width="24px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:valhmrt@gmail.com" >
