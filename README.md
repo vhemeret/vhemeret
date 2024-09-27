@@ -35,9 +35,6 @@
   <img align="center" alt="Valentin Hemeret | Gmail" width="26px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/c58140b559bf4b3c4d324b8edbd61bc11e7095cf/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 <p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StefanosSt/StefanosSt/39f89ceae39ff566e4db8313f699cb2059f76f53/github-user-contribution.svg" alt="snake">
-</p>
 
 ---
 
